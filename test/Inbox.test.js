@@ -6,3 +6,13 @@ const assert = require('assert')
 const web3 = new Web3(ganache.Provider())
 
 // contract test code will go here
+/* 
+	1. Mocha Starts.
+	2. Deploy a new Contract.
+	3. Manipulate the Contract.
+	4. Make some assertions about the Contract.
+
+	https://excalidraw.com/#json=esUC8SDu9IzpDvRKQw0Dz,oFmJaVEgjgMR3gGapMRJqQ
+*/
+
+
